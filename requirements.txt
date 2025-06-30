@@ -1,0 +1,17 @@
+
+---
+
+### 📦 3. **requirements.txt**
+
+Extract this from your code:
+
+```txt
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python
+matplotlib
+numpy
+tqdm
+Pillow
